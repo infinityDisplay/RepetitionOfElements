@@ -1,0 +1,16 @@
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.csprojAssemblyReference.cache
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.AssemblyInfoInputs.cache
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.AssemblyInfo.cs
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.csproj.CoreCompileInputs.cache
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\RepetitionOfElements.exe
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\RepetitionOfElements.deps.json
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\RepetitionOfElements.runtimeconfig.json
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\RepetitionOfElements.runtimeconfig.dev.json
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\RepetitionOfElements.dll
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\ref\RepetitionOfElements.dll
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\bin\Debug\net5.0\RepetitionOfElements.pdb
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.dll
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\ref\RepetitionOfElements.dll
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.pdb
+C:\Users\romm8\Desktop\RepetitionOfElements\RepetitionOfElements\RepetitionOfElements\obj\Debug\net5.0\RepetitionOfElements.genruntimeconfig.cache

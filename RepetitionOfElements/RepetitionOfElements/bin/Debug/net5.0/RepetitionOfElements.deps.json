@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RepetitionOfElements/1.0.0": {
+        "runtime": {
+          "RepetitionOfElements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepetitionOfElements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
